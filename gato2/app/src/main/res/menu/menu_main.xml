@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pepe.gato.MainActivity">
+    <item
+        android:id="@+id/conectar"
+        android:orderInCategory="100"
+        android:title="Conectar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/revancha"
+        android:orderInCategory="100"
+        android:title="Revancha"
+        app:showAsAction="never" />
+</menu>
